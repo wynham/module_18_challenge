@@ -29,19 +29,19 @@ import hashlib
 
 ## Example
 
-#### This first image shows the model loss and accuracy values for the original model, the first alternative model, and the second alternative model. Notice the second alternative model performs the best.
+#### This first image shows the layout of the streamlit application.
 
-![original](./readme_images/mod_13_1.png)
-
-
-#### This next image shows the summary for the original model.
-
-![resampled](./readme_images/mod_13_4.png)
+![original](./readme_images/mod_18_1.png)
 
 
-#### This final image shows the summary for the second alternative model, which performed better than all the other models.
+#### This next image shows what happens when the user presses 'Validate Chain'. In the Streamlit application the value True is returned, and in the terminal it states 'Blockchain is Valid'.
 
-![resampled](./readme_images/mod_13_2.png)
+![resampled](./readme_images/mod_18_2.png)
+
+
+#### This final image shows a close up of all the transactions in the PyChain ledger. You're able to access this by pressing the expand button in the Streamlit application
+
+![resampled](./readme_images/mod_18_3.png)
 
 
 ---
